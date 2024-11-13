@@ -12,6 +12,7 @@
     "test": "echo \"No tests specified\" && exit 0"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.59.20",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
